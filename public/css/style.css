@@ -1,0 +1,66 @@
+@import url('https://fonts.googleapis.com/css2?family=Poiret+One&display=swap');
+
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    font-family: 'Poiret One', cursive;
+}
+
+body{
+    font-size: 62.5%;
+    font-weight: bold;
+    scroll-behavior: smooth;
+}
+ /* ------------------ */
+   /* navbar stylish */
+/* -------------------- */
+
+.navbar-expand-lg .navbar-collapse {
+    justify-content: flex-end;
+}
+
+.navbar-brand.logo{
+    color: white;
+    font-size: 1.6rem;
+    font-weight: 700;
+}
+
+.navbar-brand.logo span{
+    color: brown;
+    font-size: 2rem;
+    font-weight: 500;
+}
+
+.nav-link.anchor{
+    font-weight: 700;
+}
+
+
+ /* ------------------ */
+   /* header stylish */
+/* -------------------- */
+
+.header-sec-h2{
+    color: darkblue;
+    font-weight: 700;
+}
+
+
+ /* ------------------ */
+   /* about stylish */
+/* -------------------- */
+
+.about-title{
+    font-weight: 700;
+    color: rgb(211, 29, 29);
+}
+
+/* ------------------ */
+   /* contact stylish */
+/* -------------------- */
+
+.contact-title{
+    font-weight: 700;
+    color: orangered;
+}
